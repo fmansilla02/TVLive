@@ -1,0 +1,15 @@
+#EXTM3U
+
+# LStream
+#EXTM3U
+
+# Favoritos
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Favoritos",ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+# Descripción: Canal de noticias estadounidense con cobertura global.
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Favoritos",Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/mXWSrBG.jpeg" group-title="Favoritos",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/dIQOSPG.png" group-title="Favoritos",TV Perú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
