@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTM3U
-
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Favoritos",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Favoritos",Latina
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png", ATV | PE
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://i.imgur.com/8Hvk59N.png", Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/mXWSrBG.jpeg" group-title="Favoritos",Panamericana TV
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamerica" tvg-logo="https://i.imgur.com/mXWSrBG.jpeg", Panamericana TV
 https://cdnhd.iblups.com/hls/ptv5.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/dIQOSPG.png" group-title="Favoritos",TV Perú
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="https://i.imgur.com/dIQOSPG.png", TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
